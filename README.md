@@ -12,6 +12,9 @@
 -->
 
 <!--START_SECTION:waka-->
+
+
+
 <!--END_SECTION:waka-->
 
 
@@ -44,6 +47,12 @@
 ### and of course...
 [![Github][Github.io]][Github-url]
 
+
+# Github Metrics & Achievements 🏆
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=nord)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sevilladiego8&title=Commits&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- Technologies links -->
@@ -92,7 +101,7 @@
 REFERENCES:
 Ideas -> https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
     Top language stats
-    https://github.com/anmol098/waka-readme-stats
+    https://github.com/anmol098/waka-readme-stats - https://wakatime.com/
 
 Badges -> https://github.com/alexandresanlim/Badges4-README.md-Profile
 
@@ -103,13 +112,15 @@ Create/Search a cool image. Add an inspiring quote.
 
 |Repos| |Commits this month| - https://shields.io/badges/git-hub-commit-activity
 
-<Description>
-
 ## Technology Stack
 React Angular NodeJS HTML5 CSS Bootstrap Javascript Typescript Python MongoDB MySQL Git AWS
 
 ## My Git Stats
 Most Used Languages
+
+trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sevilladiego8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 NOTES:
