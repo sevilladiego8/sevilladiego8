@@ -1,8 +1,7 @@
+
 [![MasterHead](./landscape-github-banner.png)](https://github.com/sevilladiego8)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sevilladiego8&color=blue&style=flat" alt="Profile Views">
-</p>
+![](https://komarev.com/ghpvc/?username=sevilladiego8&color=blue&style=flat)
 
 <!--
 
@@ -14,88 +13,51 @@
 
 <!--START_SECTION:waka-->
 
+
+
 <!--END_SECTION:waka-->
 
-<h1 align="center">Technology Stack 🔬</h1>
 
-<h3 align="center">Web Frameworks, Libraries and Runtime Environments</h3>
-<p align="center">  
-  <a href="https://react.dev/">
-    <img  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor" alt="React">
-  </a>
-  <a href="https://angular.io/">
-    <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  </a>
-  <a href="https://nodejs.org/en/blog/release/v18.17.0">
-    <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  </a>
-  <a href="https://expressjs.com/">
-    <img  src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  </a>
-  <a href="https://nx.dev/">
-    <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="NX">
-  </a>
-</p>
+# Technology Stack 🔬
 
-<h3 align="center">Web Structure and Styling</h3>
-<p align="center">  
-  <a href="https://www.w3schools.com/html/">
-    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://getbootstrap.com">
-    <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
-</p>
+### Web Frameworks, Libraries and Runtime Environments
+[![React][React.io]][React-url]
+[![Angular][Angular.io]][Angular-url]
+[![Node][Node.io]][Node-url]
+[![Express][Express.io]][Express-url]
+[![Nx][Nx.io]][Nx-url]
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">  
-  <a href="https://www.typescriptlang.org/">
-    <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-  </a>
-  <a href="https://www.javascript.com/">
-    <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
-  </a>
-  <a href="https://www.python.org/">
-    <img  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-  </a>
-</p>
+### Web Structure and Styling
+[![HTML5][HTML5.io]][HTML5-url]
+[![CSS3][CSS3.io]][CSS3-url]
+[![Bootstrap][Bootstrap.io]][Bootstrap-url]
 
-<h3 align="center">Databases</h3>
-<p align="center">  
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-</p>
+### Programming Languages
+[![TypeScript][TypeScript.io]][Typescript-url]
+[![JavaScript][JavaScript.io]][Javascript-url]
+[![Python][Python.io]][Python-url]
 
-<h3 align="center">Infrastructure</h3>
-<p align="center">  
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  </a>
-</p>
+### Databases
+[![MySQL][MySQL.io]][MySQL-url]
+[![MongoDB][MongoDB.io]][MongoDB-url]
 
-<h3 align="center">and of course...</h3>
-<p align="center">  
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-  </a>
-</p>
+### Infrastructure
+[![AWS][AWS.io]][AWS-url]
 
-<h1 align="center">Github Metrics & Achievements 🏆</h1>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=nord" alt="Github Streak">
-</p>
+### and of course...
+[![Github][Github.io]][Github-url]
+
+
+# Github Metrics & Achievements 🏆
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=nord)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sevilladiego8&title=Commits&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- Technologies links -->
 
 <!-- Frameworks, libraries, runtime environments n others-->
-
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [React.io]: https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor
@@ -112,14 +74,12 @@
 [NX.io]: https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white
 
 <!-- Styling -->
-
 [CSS3.io]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Bootstrap.io]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
 <!-- Programming Languages -->
-
 [TypeScript.io]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/
 [JavaScript.io]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
@@ -128,13 +88,13 @@
 [Python-url]: https://www.python.org/
 
 <!-- Infrastructure and Databases -->
-
 [AWS.io]: https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 [AWS-url]: https://aws.amazon.com/
 [MySQL.io]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
 [MongoDB.io]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [MongoDB-url]: https://www.mongodb.com/
+
 
 <!--
 
@@ -143,14 +103,8 @@ Ideas -> https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
     Top language stats
     https://github.com/anmol098/waka-readme-stats - https://wakatime.com/
 
-Header image
-[![MasterHead](./landscape-github-banner.png)](https://github.com/sevilladiego8)
-
-intro badges
-![](https://komarev.com/ghpvc/?username=sevilladiego8&color=blue&style=flat)
-
 Badges -> https://github.com/alexandresanlim/Badges4-README.md-Profile
-[![TypeScript][TypeScript.io]][TypeScript-url]
+
 
 TEMPLATE:
 
@@ -166,7 +120,6 @@ Most Used Languages
 
 trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sevilladiego8)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
