@@ -16,7 +16,7 @@
 
 <!--END_SECTION:waka-->
 
-<h1 align="center">Technology Stack 🔬</h1>
+<h1 align="center">Technology Stack 🤖</h1>
 
 <h3 align="center">Web Frameworks, Libraries and Runtime Environments</h3>
 <p align="center">  
