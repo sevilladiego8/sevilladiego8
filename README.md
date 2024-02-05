@@ -87,7 +87,7 @@
   </a>
 </p>
 
-<h1 align="center">Github Metrics</h1>
+<h1 align="center">Github Metrics 📊</h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=nord" alt="Github Streak">
 </p>
