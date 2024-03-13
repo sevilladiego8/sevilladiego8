@@ -45,6 +45,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
+  <a href="https://sass-lang.com/documentation/syntax/#scss">
+    <img  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  </a>
   <a href="https://getbootstrap.com">
     <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
