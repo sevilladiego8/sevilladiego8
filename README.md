@@ -98,6 +98,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=nord" alt="Github Streak">
 </p>
 
+<p align="center">
+  Always open to learn any new technologies 💯
+</p>
+
 <!-- Technologies links -->
 
 <!-- Frameworks, libraries, runtime environments n others-->
