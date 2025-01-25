@@ -51,6 +51,9 @@
   <a href="https://getbootstrap.com">
     <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
+    <a href="https://mui.com/">
+    <img  src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
+  </a>
 </p>
 
 <h3 align="center">Programming Languages</h3>
