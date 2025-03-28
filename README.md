@@ -14,7 +14,7 @@
 
 <h1 align="center">About Me</h1>
 
-<img  src="./DS_dev.svg" height="200px" align="right" />
+<img  src="./DS_dev.png" height="300px" align="right" />
 
 - 👋 I am a full stack web developer
 
