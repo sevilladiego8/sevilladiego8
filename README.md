@@ -12,6 +12,22 @@
 
 -->
 
+<h1 align="center">About Me</h1>
+
+<img  src="./DS_dev.svg" height="200px" align="right" />
+
+- 👋 I am a full stack web developer
+
+- 🌟 I’m currently working on `Something Amazing`.
+
+- 🌱 I’m currently learning `3D Web Integrations`
+
+- 🚀 I’m looking to collaborate on `Dev Projects`
+
+- 💬 Ask me about anything, except maths :sweat_smile:
+
+- ⚡ Fun fact: I need to try skydiving haha
+
 <h1 align="center">Technology Stack 🤖</h1>
 
 <h3 align="center">Web Frameworks, Libraries and Runtime Environments</h3>
