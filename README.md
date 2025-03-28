@@ -20,6 +20,8 @@
     <img  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor" alt="React"></a>
   <a href="https://angular.io/" target="_blank">
     <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
   <a href="https://nodejs.org/en/blog/release/v18.17.0" target="_blank">
     <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
   <a href="https://expressjs.com/" target="_blank">
@@ -28,8 +30,6 @@
     <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="NX"></a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next"></a>
-    <a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
 </p>
 
 <h3 align="center">Web Structure and Styling</h3>
@@ -60,7 +60,7 @@
     <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">DB + Infrastructure</h3>
 <p align="center">  
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
@@ -68,11 +68,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-</p>
-
-<h3 align="center">Infrastructure</h3>
-<p align="center">  
-  <a href="https://aws.amazon.com/" target="_blank">
+   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCloud"></a>
@@ -98,17 +94,10 @@
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"></a>
   <a href="https://www.opera.com/" target="_blank">
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera"></a>
-</p>
-
-<h3 align="center">and of course...</h3>
-<p align="center">  
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 </p>
 
-<p align="center">
-  Always open to learn new technologies 💯
-</p>
 
 <h1 align="center">Design & 3D Stack 🎨</h1>
 
