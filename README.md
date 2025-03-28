@@ -28,6 +28,9 @@
 
 - ⚡ Fun fact: I need to try skydiving haha
 
+<br />
+<br />
+
 <h1 align="center">Technology Stack 🤖</h1>
 
 <h3 align="center">Web Frameworks, Libraries and Runtime Environments</h3>
