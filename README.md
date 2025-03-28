@@ -146,8 +146,7 @@
 
 <h1 align="center">Metrics 📊</h1>
 <div align="center">
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevilladiego8" /> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=default&ring=388EFF&fire=0157CB&currStreakLabel=0157CB&currStreakNum=002557&sideNums=002557" alt="sevilladiego8" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=default&ring=388EFF&fire=0157CB&currStreakLabel=0157CB&currStreakNum=002557&sideNums=002557" alt="github-streak" />
 </div>
 
 <!--START_SECTION:waka-->
