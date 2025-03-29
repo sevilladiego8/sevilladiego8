@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
@@ -30,4 +31,9 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
+          REPOSITORY: sevilladiego8/sevilladiego8
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: sevilladiego8
+          AUTHOR_EMAIL: sevilla.diego8@gmail.com
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
