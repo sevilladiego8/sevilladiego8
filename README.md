@@ -148,6 +148,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sevilladiego8&theme=default&ring=388EFF&fire=0157CB&currStreakLabel=0157CB&currStreakNum=002557&sideNums=002557" alt="github-streak" />
 </div>
+<br />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
