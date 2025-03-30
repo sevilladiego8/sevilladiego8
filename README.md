@@ -150,21 +150,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 30 January 2024 - To: 27 March 2025
-
-Total Time: 1,420 hrs 38 mins
-
-JavaScript        1,149 hrs 46 mins>>>>>>>>>>>>>>>>>>>>-----   80.93 %
-TypeScript        124 hrs 17 mins >>-----------------------   08.75 %
-Bash              30 hrs 57 mins  >------------------------   02.18 %
-SQL               30 hrs 26 mins  >------------------------   02.14 %
-SCSS              13 hrs 54 mins  -------------------------   00.98 %
-Markdown          12 hrs 59 mins  -------------------------   00.91 %
-Other             11 hrs 11 mins  -------------------------   00.79 %
-```
-
 <!--END_SECTION:waka-->
 
 <h1 align="center">Let's connect! 📱👌</h1>
