@@ -151,6 +151,24 @@
 <br />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 February 2025 - To: 30 March 2025
+
+Total Time: 88 hrs 26 mins
+
+TypeScript   51 hrs 45 mins  >>>>>>>>>>>>>>>----------   58.53 %
+SCSS         12 hrs 58 mins  >>>>---------------------   14.67 %
+Markdown     11 hrs 50 mins  >>>----------------------   13.40 %
+JSON         4 hrs 10 mins   >------------------------   04.71 %
+YAML         1 hr 48 mins    >------------------------   02.04 %
+HTML         1 hr 46 mins    >------------------------   02.01 %
+CSS          1 hr 14 mins    -------------------------   01.40 %
+JavaScript   1 hr 5 mins     -------------------------   01.24 %
+Bash         1 hr            -------------------------   01.14 %
+Text         14 mins         -------------------------   00.28 %
+```
+
 <!--END_SECTION:waka-->
 
 <h1 align="center">Let's connect! 📱👌</h1>
