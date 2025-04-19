@@ -21,15 +21,15 @@
 
 - 👋 I am a full stack web developer
 
-- 🌟 I’m currently working on `Something Amazing`.
+- 🌟 I’m currently working on `Something Interesting`.
 
 - 🌱 I’m currently learning `3D Web Integrations`
 
-- 🚀 I’m looking to collaborate on `Dev Projects`
+- 🚀 I’m looking to collaborate on `Tech Projects`
 
-- 💬 Ask me about anything, except maths :sweat_smile:
+- 💬 Ask me about anything! I'll give my best try 🧐
 
-- ⚡ Fun fact: I need to try skydiving haha
+- ⚡ Fun fact: I have to try skydiving someday haha
 
 <br />
 <br />
