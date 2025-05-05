@@ -153,12 +153,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2025 - To: 02 May 2025
+From: 03 April 2025 - To: 03 May 2025
 
 Total Time: 10 hrs 8 mins
 
-TypeScript    7 hrs 12 mins   >>>>>>>>>>>>>>>>>>-------   71.14 %
-SCSS          1 hr 23 mins    >>>----------------------   13.78 %
+TypeScript    7 hrs 12 mins   >>>>>>>>>>>>>>>>>>-------   71.15 %
+SCSS          1 hr 23 mins    >>>----------------------   13.79 %
 Image (svg)   30 mins         >------------------------   05.05 %
 JSON          23 mins         >------------------------   03.95 %
 JavaScript    17 mins         >------------------------   02.90 %
