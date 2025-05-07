@@ -29,7 +29,7 @@
 
 - 💬 Ask me about anything! I'll give my best try 🧐
 
-- ⚡ Fun fact: I have to try skydiving someday haha
+- ⚡ Fun fact: My next adventure must include skydiving haha
 
 <br />
 <br />
