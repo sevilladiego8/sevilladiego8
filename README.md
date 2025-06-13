@@ -153,16 +153,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2025 - To: 10 June 2025
+From: 12 May 2025 - To: 11 June 2025
 
-Total Time: 249 hrs 32 mins
+Total Time: 244 hrs 36 mins
 
-TypeScript    162 hrs 45 mins >>>>>>>>>>>>>>>>---------   65.22 %
-SCSS          67 hrs 44 mins  >>>>>>>------------------   27.15 %
-JSON          10 hrs 4 mins   >------------------------   04.03 %
-Markdown      3 hrs 29 mins   -------------------------   01.40 %
-HTML          3 hrs 4 mins    -------------------------   01.23 %
-XML           1 hr 3 mins     -------------------------   00.43 %
+TypeScript    159 hrs 7 mins  >>>>>>>>>>>>>>>>---------   65.05 %
+SCSS          66 hrs 29 mins  >>>>>>>------------------   27.18 %
+JSON          10 hrs 2 mins   >------------------------   04.10 %
+Markdown      3 hrs 28 mins   -------------------------   01.42 %
+HTML          3 hrs 4 mins    -------------------------   01.26 %
+XML           1 hr 3 mins     -------------------------   00.44 %
 Text          28 mins         -------------------------   00.19 %
 JavaScript    20 mins         -------------------------   00.14 %
 Python        13 mins         -------------------------   00.09 %
