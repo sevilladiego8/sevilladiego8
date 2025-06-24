@@ -33,6 +33,6 @@ jobs:
           REPOSITORY: sevilladiego8/sevilladiego8
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: sevilladiego8
-          AUTHOR_EMAIL: sevilla.diego8@gmail.com
+          ## AUTHOR_NAME: sevilladiego8
+          ## AUTHOR_EMAIL: sevilla.diego8@gmail.com
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 

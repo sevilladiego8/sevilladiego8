@@ -21,15 +21,15 @@
 
 - 👋 I am a full stack web developer
 
-- 🌟 I’m currently working on `Something Amazing`.
+- 🌟 I’m currently working on `Something Interesting`.
 
 - 🌱 I’m currently learning `3D Web Integrations`
 
-- 🚀 I’m looking to collaborate on `Dev Projects`
+- 🚀 I’m looking to collaborate on `Tech Projects`
 
-- 💬 Ask me about anything, except maths :sweat_smile:
+- 💬 Ask me about anything! I'll give my best try 🧐
 
-- ⚡ Fun fact: I need to try skydiving haha
+- ⚡ Fun fact: My next adventure must include skydiving haha
 
 <br />
 <br />
@@ -150,6 +150,24 @@
 <br />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 May 2025 - To: 22 June 2025
+
+Total Time: 242 hrs
+
+TypeScript    152 hrs 56 mins >>>>>>>>>>>>>>>>---------   63.19 %
+SCSS          73 hrs 57 mins  >>>>>>>>-----------------   30.56 %
+JSON          11 hrs 17 mins  >------------------------   04.67 %
+HTML          1 hr 32 mins    -------------------------   00.64 %
+Markdown      1 hr 27 mins    -------------------------   00.60 %
+JavaScript    36 mins         -------------------------   00.25 %
+Image (svg)   4 mins          -------------------------   00.03 %
+Bash          3 mins          -------------------------   00.03 %
+CSS           2 mins          -------------------------   00.02 %
+Text          1 min           -------------------------   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 <h1 align="center">Let's connect! 📱👌</h1>
