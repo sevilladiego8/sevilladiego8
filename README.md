@@ -14,7 +14,7 @@
 
 <h1 align="center">About Me</h1>
 
-<img  src="./DS_dev.png" height="336px" align="right" style="padding-right: 64px;"/>
+<img  src="./ds-dev-git.png" height="336px" align="right" style="padding-right: 64px;"/>
 
 <br />
 <br />
@@ -121,7 +121,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
 </p>
 
-
 <h1 align="center">Design & 3D Stack 🎨</h1>
 
 <p align="center">  
@@ -167,4 +166,3 @@
   <a href="https://x.com/diegooo_sevilla" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="XMusk"></a>
 </p>
-
