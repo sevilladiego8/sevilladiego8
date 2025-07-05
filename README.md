@@ -14,7 +14,7 @@
 
 <h1 align="center">About Me</h1>
 
-<img  src="./ds-dev-git.png" height="336px" align="right" style="padding-right: 64px;"/>
+<img  src="./ds-dev-git.png" height="336px" width="440" align="right" style="padding-right: 64px;"/> 
 
 <br />
 <br />
