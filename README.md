@@ -14,7 +14,7 @@
 
 <h1 align="center">About Me</h1>
 
-<img  src="./ds-dev-git.png" height="336px" width="440" align="right" style="padding-right: 64px;"/> 
+<img  src="./ds-dev-git.png" height="336px" width="440" align="right" style="padding-right: 64px;"/>
 
 <br />
 <br />
@@ -53,6 +53,8 @@
     <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="NX"></a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next"></a>
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS"></a>
 </p>
 
 <h3 align="center">Web Structure and Styling</h3>
