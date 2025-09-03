@@ -154,7 +154,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 31 August 2025
+From: 02 August 2025 - To: 01 September 2025
 
 Total Time: 27 hrs 10 mins
 
@@ -163,7 +163,7 @@ HTML          2 hrs 28 mins   >>-----------------------   09.13 %
 SCSS          1 hr 21 mins    >------------------------   04.97 %
 JSON          1 hr 20 mins    >------------------------   04.96 %
 Markdown      1 hr 14 mins    >------------------------   04.58 %
-Bash          1 hr            >------------------------   03.73 %
+Bash          1 hr            >------------------------   03.74 %
 YAML          56 mins         >------------------------   03.49 %
 JavaScript    32 mins         -------------------------   01.97 %
 Image (svg)   4 mins          -------------------------   00.25 %
