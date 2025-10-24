@@ -77,12 +77,12 @@
     <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></a>
   <a href="https://www.javascript.com/" target="_blank">
     <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"></a>
+   <a href="https://www.java.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
   <a href="https://www.python.org/" target="_blank">
     <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"></a>
-    <a href="https://www.java.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
 </p>
 
 <h3 align="center">DB + Infrastructure</h3>
