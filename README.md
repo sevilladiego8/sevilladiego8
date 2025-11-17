@@ -37,12 +37,10 @@
 
 <h1 align="center">Technology Stack 🤖</h1>
 
-<h3 align="center">Web Frameworks, Libraries and Runtime Environments</h3>
+<h3 align="center">Libraries, Runtime Environments and Web Frameworks</h3>
 <p align="center">  
   <a href="https://react.dev/" target="_blank">
     <img  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor" alt="React"></a>
-  <a href="https://angular.io/" target="_blank">
-    <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
   <a href="https://nodejs.org/en/blog/release/v18.17.0" target="_blank">
@@ -53,8 +51,8 @@
     <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="NX"></a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next"></a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS"></a>
+  <a href="https://angular.io/" target="_blank">
+    <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
 </p>
 
 <h3 align="center">Web Structure and Styling</h3>
@@ -76,13 +74,13 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"></a>
-   <a href="https://www.java.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+    <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"></a> 
   <a href="https://www.python.org/" target="_blank">
     <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"></a>
+  <a href="https://www.java.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <!--<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp"></a>-->
 </p>
 
 <h3 align="center">DB + Infrastructure</h3>
@@ -136,6 +134,8 @@
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="PremierPro"></a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://threejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS"></a>
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></a>
 </p>
