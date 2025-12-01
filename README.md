@@ -154,20 +154,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 28 November 2025
+From: 30 October 2025 - To: 29 November 2025
 
-Total Time: 76 hrs 33 mins
+Total Time: 69 hrs 39 mins
 
-JavaScript   23 hrs 57 mins  >>>>>>>>-----------------   31.29 %
-Markdown     14 hrs 52 mins  >>>>>--------------------   19.43 %
-TypeScript   13 hrs 14 mins  >>>>---------------------   17.30 %
-Python       10 hrs 22 mins  >>>----------------------   13.55 %
-JSON         4 hrs 11 mins   >------------------------   05.47 %
-SCSS         3 hrs 37 mins   >------------------------   04.74 %
-Java         1 hr 24 mins    -------------------------   01.84 %
-YAML         1 hr 22 mins    -------------------------   01.79 %
-Text         42 mins         -------------------------   00.93 %
-TSConfig     38 mins         -------------------------   00.84 %
+JavaScript   24 hrs 13 mins  >>>>>>>>>----------------   34.79 %
+Markdown     14 hrs 46 mins  >>>>>--------------------   21.20 %
+Python       10 hrs 22 mins  >>>>---------------------   14.89 %
+TypeScript   9 hrs 46 mins   >>>>---------------------   14.03 %
+JSON         3 hrs 39 mins   >------------------------   05.24 %
+YAML         1 hr 22 mins    -------------------------   01.97 %
+Java         1 hr 6 mins     -------------------------   01.58 %
+SCSS         59 mins         -------------------------   01.42 %
+Text         42 mins         -------------------------   01.02 %
+TSConfig     38 mins         -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
