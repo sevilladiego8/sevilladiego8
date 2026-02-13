@@ -19,17 +19,21 @@
 <br />
 <br />
 
+<!--
 - 👋 I am a full stack web developer
-
 - 🌟 I’m currently working on `Something Interesting`.
-
 - 🌱 I’m currently learning `3D Web Integrations`
-
 - 🚀 I’m looking to collaborate on `Tech Projects`
-
 - 💬 Ask me about anything! I'll give my best try 🧐
-
 - ⚡ Fun fact: My next adventure must include skydiving haha
+-->
+
+- 👋 Full-Stack Web Developer specializing in **JavaScript**/**TypeScript**, **React**, **Node.js**, and modern web architectures
+- 🛠️ Currently working on production-style projects to strengthen real-world architecture and performance skills
+- 🌱 Deepening my knowledge in backend design, modern frontend frameworks and 3D Web integrations.
+- 🤝 Open to collaborating on meaningful projects, startups, or open-source contributions
+- 💬 Happy to discuss web architecture, APIs, performance optimization, and frontend design
+- ⚡ Fun fact: I enjoy tackling interesting problems — whether in code or in real life
 
 <br />
 <br />
