@@ -29,7 +29,7 @@
 -->
 
 - 👋 Full-Stack Web Developer specializing in **JavaScript**/**TypeScript**, **React**, **Node.js**, and modern web architectures
-- 🛠️ Currently working on production-style projects to strengthen real-world architecture and performance skills
+- 🛠️ Developing production-style projects while deepening my knowledge of system design, scalability, and performance in preparation for engineering roles
 - 🌱 Deepening my knowledge in backend design, modern frontend frameworks and 3D Web integrations.
 - 🤝 Open to collaborating on meaningful projects, startups, or open-source contributions
 - 💬 Happy to discuss web architecture, APIs, performance optimization, and frontend design
