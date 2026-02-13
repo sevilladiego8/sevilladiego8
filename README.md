@@ -28,8 +28,8 @@
 - ⚡ Fun fact: My next adventure must include skydiving haha
 -->
 
-- 👋 Full-Stack Web Developer specializing in **JavaScript**/**TypeScript**, **React**, **Node.js**, and modern web architectures
-- 🛠️ Developing production-style projects while deepening my knowledge of system design, scalability, and performance in preparation for engineering roles
+- 👋 Full-Stack Web Developer specializing in **React**, **Node.js**, **JavaScript**/**TypeScript**, and modern web architectures
+- 🛠️ Developing/experimenting with production-style projects to strengthen real-world architecture and performance skills
 - 🌱 Deepening my knowledge in backend design, modern frontend frameworks and 3D Web integrations.
 - 🤝 Open to collaborating on meaningful projects, startups, or open-source contributions
 - 💬 Happy to discuss web architecture, APIs, performance optimization, and frontend design
