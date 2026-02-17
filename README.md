@@ -31,7 +31,7 @@
 - 👋 Full-Stack Web Developer specializing in **React**, **Node.js**, **JavaScript**/**TypeScript**, and modern web architectures
 - 🛠️ Developing production-style projects to strengthen real-world architecture and performance skills
 - 🌱 Deepening my knowledge in backend design, modern frontend frameworks and 3D Web integrations.
-- 🎨 My graphic design background helps me collaborate effectively with designers and implement thoughtful UX/UI
+- 🎨 My graphic design background enables me to collaborate effectively with designers and implement thoughtful UX/UI
 - 🤝 Open to collaborating on meaningful projects, startups, or open-source contributions
 - 💬 Happy to discuss web architecture, APIs, performance optimization, and frontend design
 - ⚡ Fun fact: I enjoy tackling interesting problems — whether in code or in real life
