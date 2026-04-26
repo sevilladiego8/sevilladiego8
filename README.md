@@ -68,6 +68,8 @@
     <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="https://sass-lang.com/documentation/syntax/#scss" target="_blank">
     <img  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"></a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img  src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind"></a>
   <a href="https://getbootstrap.com" target="_blank">
     <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
     <a href="https://mui.com/" target="_blank">
