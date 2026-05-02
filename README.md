@@ -161,19 +161,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2026 - To: 29 April 2026
+From: 31 March 2026 - To: 30 April 2026
 
-Total Time: 150 hrs 4 mins
+Total Time: 144 hrs 32 mins
 
-TypeScript                 82 hrs 13 mins        >>>>>>>>>>>>>>-----------   54.79 %
-Markdown                   15 hrs 13 mins        >>>----------------------   10.14 %
-CSS                        13 hrs 10 mins        >>-----------------------   08.77 %
-JSON                       12 hrs 53 mins        >>-----------------------   08.59 %
-JavaScript                 6 hrs 53 mins         >------------------------   04.60 %
-Python                     5 hrs 12 mins         >------------------------   03.47 %
-YAML                       4 hrs 43 mins         >------------------------   03.14 %
-Text                       1 hr 33 mins          -------------------------   01.04 %
-Other                      1 hr 29 mins          -------------------------   00.99 %
+TypeScript                 78 hrs 52 mins        >>>>>>>>>>>>>>-----------   54.57 %
+Markdown                   14 hrs 32 mins        >>>----------------------   10.06 %
+CSS                        13 hrs 10 mins        >>-----------------------   09.11 %
+JSON                       12 hrs 48 mins        >>-----------------------   08.87 %
+JavaScript                 6 hrs 25 mins         >------------------------   04.44 %
+Python                     5 hrs 12 mins         >------------------------   03.61 %
+YAML                       4 hrs 38 mins         >------------------------   03.22 %
+Other                      1 hr 28 mins          -------------------------   01.02 %
 ```
 
 <!--END_SECTION:waka-->
