@@ -161,17 +161,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 30 May 2026
+From: 01 May 2026 - To: 31 May 2026
 
-Total Time: 116 hrs 54 mins
+Total Time: 117 hrs 44 mins
 
-TypeScript                 54 hrs 56 mins        >>>>>>>>>>>>-------------   47.00 %
-Markdown                   20 hrs 10 mins        >>>>---------------------   17.26 %
-YAML                       11 hrs 50 mins        >>>----------------------   10.13 %
-JSON                       10 hrs 20 mins        >>-----------------------   08.85 %
-Bash                       6 hrs 52 mins         >------------------------   05.87 %
-Docker                     4 hrs 52 mins         >------------------------   04.18 %
-Other                      2 hrs 21 mins         >------------------------   02.01 %
+TypeScript                 55 hrs 46 mins        >>>>>>>>>>>>-------------   47.37 %
+Markdown                   20 hrs 11 mins        >>>>---------------------   17.14 %
+YAML                       11 hrs 50 mins        >>>----------------------   10.06 %
+JSON                       10 hrs 20 mins        >>-----------------------   08.79 %
+Bash                       6 hrs 52 mins         >------------------------   05.83 %
+Docker                     4 hrs 52 mins         >------------------------   04.15 %
+Other                      2 hrs 21 mins         >------------------------   02.00 %
 ```
 
 <!--END_SECTION:waka-->
