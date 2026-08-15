@@ -161,14 +161,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 12 August 2026
+From: 14 July 2026 - To: 13 August 2026
 
-Total Time: 74 hrs 20 mins
+Total Time: 72 hrs 42 mins
 
-TypeScript   38 hrs 54 mins        >>>>>>>>>>>>>------------   52.33 %
-Markdown     13 hrs 31 mins        >>>>>--------------------   18.19 %
-JSON         7 hrs 4 mins          >>-----------------------   09.53 %
-Other        4 hrs 29 mins         >>-----------------------   06.03 %
+TypeScript   37 hrs 22 mins        >>>>>>>>>>>>>------------   51.40 %
+Markdown     13 hrs 31 mins        >>>>>--------------------   18.60 %
+JSON         6 hrs 10 mins         >>-----------------------   08.48 %
+Other        4 hrs 29 mins         >>-----------------------   06.18 %
 ```
 
 <!--END_SECTION:waka-->
